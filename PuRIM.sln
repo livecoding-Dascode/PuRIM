@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuRIM", "PuRIM\PuRIM.csproj", "{C6523380-9802-4DC4-8FF3-580FD1D4A32D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loader", "Loader\Loader.csproj", "{1E0B462F-E078-4896-AFAD-68901C9E1959}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C6523380-9802-4DC4-8FF3-580FD1D4A32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6523380-9802-4DC4-8FF3-580FD1D4A32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6523380-9802-4DC4-8FF3-580FD1D4A32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E0B462F-E078-4896-AFAD-68901C9E1959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0B462F-E078-4896-AFAD-68901C9E1959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0B462F-E078-4896-AFAD-68901C9E1959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0B462F-E078-4896-AFAD-68901C9E1959}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
